@@ -25,5 +25,10 @@
 - junus ergin programmier videos anschauen
 
 ## 21.3.2025
-- m114 abschliessen hz5
+- m114 abschliessen hz 4,5
 - scrum noch tiefer hinein
+
+- ## 28.03.2025
+- m259
+- m426
+- python programmieren
